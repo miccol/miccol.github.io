@@ -56,6 +56,7 @@ atom_feed:
 # Scholar setting 
 
 scholar:
+  style: assets/bibliography/ieee-with-url.csl
   locale: en
 
   sort_by: year
@@ -63,7 +64,7 @@ scholar:
   bibliography_list_tag: ul
 
   source: _bibliography
-  repository: files
+  repository: pdf
   bibliography: references
   bibliography_template: bibliography
 
@@ -72,6 +73,8 @@ scholar:
   details_dir:    bibliography
   details_layout: bibtex.html
   details_link:   Details
+
+  query: "@*"
   
   
   
