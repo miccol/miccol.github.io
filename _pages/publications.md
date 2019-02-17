@@ -8,7 +8,7 @@ author_profile: true
 Book
 {% bibliography --file books %} 
 
-Paper
+Papers
 {% bibliography --file papers %}. 
 
 
