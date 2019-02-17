@@ -1,19 +1,19 @@
 ---
-layout: page
-title: "Projects"
-permalink: /projects/
+layout: archive
+title: "Publications"
+permalink: /publications/
 author_profile: true
 excerpt:
 share: false
 ---
 
-### 2013
+### Book
 
-{% bibliography --query @*[year=2013] %}
+{% bibliography --file books %}
 
-### 2012
+### Papers
 
-{% bibliography --query @*[year=2012] %}
+{% bibliography --query @*[year=2014] %}
 
 
 
