@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "Publications"
-date: 2013-04-08
+title: "Projects"
+permalink: /projects/
+author_profile: true
 excerpt:
 share: false
 ---
