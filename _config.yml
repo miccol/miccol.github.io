@@ -61,10 +61,17 @@ scholar:
   sort_by: year
   order: descending
   bibliography_list_tag: ul
-  details_layout: bibtex.html
 
   source: _bibliography
   repository: files
+  bibliography: references
+  bibliography_template: bibliography
+
+  replace_strings: true
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
   
   
   
