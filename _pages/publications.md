@@ -5,6 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+Book
+{% bibliography --file books %} 
+
+Papers
+{% bibliography --file papers %}. 
+
+
 
 Book
 {% bibliography --file books %} 
