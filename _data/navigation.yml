@@ -4,10 +4,7 @@ main:
     url: /publications/
 
   - title: "Media"
-    url: /media/    
-
-  - title: "Projects"
-    url: /projects/    
+    url: /media/       
     
   - title: "Behavior Trees"
     url: /behaviortrees/
