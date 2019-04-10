@@ -30,3 +30,5 @@ group :jekyll_plugins do
   gem 'unicode_utils'
 
 end
+
+bundle update
