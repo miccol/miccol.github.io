@@ -3,7 +3,8 @@ permalink: /
 title: "Welcome to my personal page"
 excerpt: "About me"
 author_profile: false
-layout: talk
+layout: single
+classes: wide
 redirect_from: 
   - /about/
   - /about.html
