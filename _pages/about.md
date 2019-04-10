@@ -3,6 +3,7 @@ permalink: /
 title: "Welcome to my personal page"
 excerpt: "About me"
 author_profile: false
+layout: double
 redirect_from: 
   - /about/
   - /about.html
