@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 
-BooK
+### Book
 1. Colledanchise, M., &amp; Ögren, P. (2018). <i>Behavior Trees in Robotics and AI: An Introduction</i>. Taylor &amp; Francis Group.
   
   </span></li></ol>
-<p>Papers</p>
+### Papers
 1. Colledanchise, M., &amp; Natale, L. (2018). Improving the Parallel Execution of Behavior Trees. In <i>Intelligent Robots and Systems (IROS), 2018 IEEE/RSJ International Conference on</i>.
 
 1. Colledanchise, M., &amp; Natale, L. (2017). Towards Reactive and Robust Manipulation Tasks using Behavior Trees. In <i>In proceedings of Workshop on Towards Robust Grasping and Manipulation Skills for Humanoids, IEEE-RAS International Conference on Humanoid Robots</i>.
