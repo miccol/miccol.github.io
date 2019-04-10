@@ -5,6 +5,7 @@ excerpt: "About me"
 author_profile: false
 layout: single
 classes: wide
+ width: 50%
 redirect_from: 
   - /about/
   - /about.html
