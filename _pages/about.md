@@ -2,7 +2,7 @@
 permalink: /
 excerpt: "About me"
 author_profile: true
-layout: single
+layout: home
 classes: wide
 redirect_from: 
   - /about/
