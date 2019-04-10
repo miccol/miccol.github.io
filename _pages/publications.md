@@ -12,8 +12,7 @@ author_profile: true
 <p>
 https://arxiv.org/abs/1709.00084
 </p>
-</details>
- <details><summary>Bibtex</summary>
+</details><details><summary>Bibtex</summary>
 <p>
 @book{colledanchise2018behavior,
   title={Behavior Trees in Robotics and AI: An Introduction},
@@ -24,6 +23,7 @@ https://arxiv.org/abs/1709.00084
 </p>
 </details> 
   </span></li></ol>
+  
 ### Papers
 1. Colledanchise, M., &amp; Natale, L. (2018). Improving the Parallel Execution of Behavior Trees. In <i>Intelligent Robots and Systems (IROS), 2018 IEEE/RSJ International Conference on</i>.
 
