@@ -2,7 +2,7 @@
 layout: archive
 title: "Publications"
 permalink: /publicationsNEW/
-markdown: kramdown
+markdown                 : CommonMarkGhPages
 author_profile: true
 ---
 
