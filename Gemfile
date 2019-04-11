@@ -28,6 +28,7 @@ group :jekyll_plugins do
   gem 'hawkins'
   gem 'jekyll-scholar'
   gem 'unicode_utils'
+  gem 'jekyll-commonmark-ghpages'
 
 end
 
