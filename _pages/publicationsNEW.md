@@ -10,7 +10,10 @@ author_profile: true
 ### Book
 1. Colledanchise, M., &amp; Ögren, P. (2018). <i>Behavior Trees in Robotics and AI: An Introduction</i>. Taylor &amp; Francis Group.
  [PDF](https://arxiv.org/abs/1709.00084)
- 
+
+     <details><summary>More</summary>
+
+
      <details><summary>Abstract</summary>
  
     <span style= "font-size:10pt; text-width=100px">
@@ -45,9 +48,8 @@ where the outcomes of actions are described
 by probabilities. These tools enable the 
 computation of both success probabilities 
 and time to completion.
-</span></details>
-
-    <details><summary>Bibtex</summary>
+</span>
+</details> <details><summary>Bibtex</summary>
 
 ```latex
 @book{colledanchise2018behavior,
@@ -57,10 +59,10 @@ and time to completion.
   publisher={CRC Press}
 }
 ```
-
-
 </details>
-  
+</details>
+
+
 ### Papers
 1. Colledanchise, M., &amp; Natale, L. (2018). Improving the Parallel Execution of Behavior Trees. In <i>Intelligent Robots and Systems (IROS), 2018 IEEE/RSJ International Conference on</i>.
 
