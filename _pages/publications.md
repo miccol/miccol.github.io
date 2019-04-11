@@ -15,7 +15,7 @@ author_profile: true
 </p>
 </details> <details><summary>Bibtex</summary>
 
-```latex
+```
 @book{colledanchise2018behavior,
   title={Behavior Trees in Robotics and AI: An Introduction},
   author={Colledanchise, Michele and {\"O}gren, Petter},
