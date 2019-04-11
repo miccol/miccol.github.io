@@ -12,11 +12,10 @@ author_profile: true
  [PDF](https://arxiv.org/abs/1709.00084)
 
      <details><summary>More</summary>
-
-
-     <details><summary>Abstract</summary>
+     
+<details><summary>Abstract</summary>
  
-    <span style= "font-size:10pt; text-width=100px">
+<span style= "font-size:10pt; text-width=100px">
  
     > A Behavior Tree (BT) is a way to structure 
 the switching between different tasks in 
@@ -49,7 +48,10 @@ by probabilities. These tools enable the
 computation of both success probabilities 
 and time to completion.
 </span>
-</details> <details><summary>Bibtex</summary>
+
+</details>
+
+<details><summary>Bibtex</summary>
 
 ```latex
 @book{colledanchise2018behavior,
@@ -60,8 +62,8 @@ and time to completion.
 }
 ```
 </details>
-</details>
 
+</details>
 
 ### Papers
 1. Colledanchise, M., &amp; Natale, L. (2018). Improving the Parallel Execution of Behavior Trees. In <i>Intelligent Robots and Systems (IROS), 2018 IEEE/RSJ International Conference on</i>.
