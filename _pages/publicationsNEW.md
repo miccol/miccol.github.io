@@ -12,7 +12,7 @@ author_profile: true
  [PDF](https://arxiv.org/abs/1709.00084)
 
  <details><summary>Abstract</summary>
-<p width="40">
+<p>
 
 ```text
 
