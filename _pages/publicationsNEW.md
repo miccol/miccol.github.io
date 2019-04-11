@@ -15,7 +15,7 @@ author_profile: true
  <details><summary>Abstract</summary>
  
  <span style= "font-size:10pt; text-width=100px">
-<p>
+
 
 > A Behavior Tree (BT) is a way to structure 
 the switching between different tasks in 
@@ -50,11 +50,10 @@ and time to completion.
 
 
 
-</p>
+
 </span>
-</details>
- <details><summary>Bibtex</summary>
-<p>
+</details><details><summary>Bibtex</summary>
+
 
 ```latex
 @book{colledanchise2018behavior,
@@ -65,7 +64,7 @@ and time to completion.
 }
 ```
 
-</p>
+
 </details>
   
 ### Papers
