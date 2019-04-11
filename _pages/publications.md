@@ -11,17 +11,18 @@ author_profile: true
 
 <details><summary>PDF</summary>
 <p>
-[Link](https://arxiv.org/abs/1709.00084)
+(https://arxiv.org/abs/1709.00084)
 </p>
 </details> <details><summary>Bibtex</summary>
-<p>
+
+```latex
 @book{colledanchise2018behavior,
   title={Behavior Trees in Robotics and AI: An Introduction},
   author={Colledanchise, Michele and {\"O}gren, Petter},
   year={2018},
   publisher={CRC Press}
 }
-</p>
+```
 </details> 
   
 ### Papers
