@@ -11,7 +11,7 @@ author_profile: true
 
 <details><summary>PDF</summary>
 <p>
-https://arxiv.org/abs/1709.00084
+[Link](https://arxiv.org/abs/1709.00084)
 </p>
 </details> <details><summary>Bibtex</summary>
 <p>
