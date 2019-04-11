@@ -14,7 +14,7 @@ author_profile: true
 
  <details><summary>Abstract</summary>
  
- <span style= "font-size:10pt;">
+ <span style= "font-size:10pt; text-width=100px">
 <p>
 
 > A Behavior Tree (BT) is a way to structure 
