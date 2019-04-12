@@ -43,8 +43,14 @@ computation of both success probabilities
 and time to completion.
   </span></details>
  </details>
+ 
 ### Papers
-1. Colledanchise, M., &amp; Natale, L. (2018). Improving the Parallel Execution of Behavior Trees. In <i>Intelligent Robots and Systems (IROS), 2018 IEEE/RSJ International Conference on</i>.
+1. Colledanchise, M., &amp; Natale, L. (2018). Improving the Parallel Execution of Behavior Trees. In <i>Intelligent Robots and Systems (IROS), 2018 IEEE/RSJ International Conference on</i>.<details><summary>More</summary>
+&nbsp;<details><summary>PDF</summary>
+LINK</details><details><summary>Abstract</summary>
+<span style= "font-size:10pt; text-width=100px; background=gray"> ABS
+  </span></details>
+ </details>
 
 1. Colledanchise, M., &amp; Natale, L. (2017). Towards Reactive and Robust Manipulation Tasks using Behavior Trees. In <i>In proceedings of Workshop on Towards Robust Grasping and Manipulation Skills for Humanoids, IEEE-RAS International Conference on Humanoid Robots</i>.
 
