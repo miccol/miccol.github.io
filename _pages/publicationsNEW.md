@@ -42,12 +42,14 @@ by probabilities. These tools enable the
 computation of both success probabilities 
 and time to completion.
 </span></details><details><summary>Bibtex</summary>
-@book{colledanchise2018behavior,
+<span style= "font-size:10pt; text-width=100px; background-color=gray">@book{colledanchise2018behavior,
   title={Behavior Trees in Robotics and Al: An Introduction},
   author={Colledanchise, Michele and {\"O}gren, Petter},
   year={2018},
   publisher={CRC Press}
-}</details>
+}
+</span>
+</details>
  </details>
 
 <details><summary>More</summary>
