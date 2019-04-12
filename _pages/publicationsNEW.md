@@ -41,16 +41,8 @@ where the outcomes of actions are described
 by probabilities. These tools enable the 
 computation of both success probabilities 
 and time to completion.
-</span>
-</details><details><summary>Bibtex</summary>
-```latex
-@book{colledanchise2018behavior,
-  title={Behavior Trees in Robotics and Al: An Introduction},
-  author={Colledanchise, Michele and {\"O}gren, Petter},
-  year={2018},
-  publisher={CRC Press}
-}
-```</details>
+</span></details><details><summary>Bibtex</summary>
+BIB</details>
  </details>
 
 <details><summary>More</summary>
