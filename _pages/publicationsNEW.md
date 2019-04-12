@@ -9,8 +9,8 @@ author_profile: true
 
 ### Book
 1. Colledanchise, M., &amp; Ögren, P. (2018). <i>Behavior Trees in Robotics and AI: An Introduction</i>. Taylor &amp; Francis Group.<details><summary>More</summary>
-HW<details><summary>More</summary>
-HW
+HW<details><summary>PDF</summary>
+LINK
  </details>
  </details>
 
