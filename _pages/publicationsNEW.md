@@ -43,7 +43,14 @@ computation of both success probabilities
 and time to completion.
 </span>
 </details><details><summary>Bibtex</summary>
-BIB</details>
+```latex
+@book{colledanchise2018behavior,
+  title={Behavior Trees in Robotics and Al: An Introduction},
+  author={Colledanchise, Michele and {\"O}gren, Petter},
+  year={2018},
+  publisher={CRC Press}
+}
+```</details>
  </details>
 
 <details><summary>More</summary>
