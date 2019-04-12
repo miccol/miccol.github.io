@@ -11,7 +11,38 @@ author_profile: true
 1. Colledanchise, M., &amp; Ögren, P. (2018). <i>Behavior Trees in Robotics and AI: An Introduction</i>. Taylor &amp; Francis Group.<details><summary>More</summary>
 &nbsp;<details><summary>PDF</summary>
 LINK</details><details><summary>Abstract</summary>
-ABS</details><details><summary>Bibtex</summary>
+<span style= "font-size:10pt; text-width=100px"> A Behavior Tree (BT) is a way to structure 
+the switching between different tasks in 
+an autonomous agent, such as a robot or a 
+virtual entity in a computer game. BTs are 
+a very efficient way of creating complex 
+systems that are both modular and reactive.
+These properties are crucial in many 
+applications, which has led to the spread 
+of BT from computer game programming to 
+many branches of AI and Robotics. In this 
+book, we will first give an introduction 
+to BTs, then we describe how BTs relate to,
+and in many cases generalize, earlier 
+switching structures. These ideas are then 
+used as a foundation for a set of efficient
+and easy to use design principles. Properties 
+such as safety, robustness, and efficiency 
+are important for an autonomous system, and 
+we describe a set of tools for formally 
+analyzing these using a state space description
+of BTs. With the new analysis tools, we can 
+formalize the descriptions of how BTs generalize
+earlier approaches. We also show the use of BTs
+in automated planning and machine learning. 
+Finally, we describe an extended set of tools 
+to capture the behavior of Stochastic BTs, 
+where the outcomes of actions are described
+by probabilities. These tools enable the 
+computation of both success probabilities 
+and time to completion.
+</span>
+</details><details><summary>Bibtex</summary>
 BIB</details>
  </details>
 
@@ -20,7 +51,6 @@ BIB</details>
 <details><summary>Abstract</summary>
  
 <span style= "font-size:10pt; text-width=100px">
- 
 > A Behavior Tree (BT) is a way to structure 
 the switching between different tasks in 
 an autonomous agent, such as a robot or a 
