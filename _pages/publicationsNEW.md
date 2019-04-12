@@ -11,7 +11,7 @@ author_profile: true
 1. Colledanchise, M., &amp; Ögren, P. (2018). <i>Behavior Trees in Robotics and AI: An Introduction</i>. Taylor &amp; Francis Group.<details><summary>More</summary>
 &nbsp;<details><summary>PDF</summary>
 LINK</details><details><summary>Abstract</summary>
-<span style= "font-size:10pt; text-width=100px"> A Behavior Tree (BT) is a way to structure 
+<span style= "font-size:10pt; text-width=100px; background-color=gray"> A Behavior Tree (BT) is a way to structure 
 the switching between different tasks in 
 an autonomous agent, such as a robot or a 
 virtual entity in a computer game. BTs are 
