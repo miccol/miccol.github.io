@@ -1,5 +1,5 @@
 ---
-title: 'Blog Post number 1'
+title: 'Production error of the book Behavior Trees in Robotics and AI: An Introduction'
 date: 2019-04-15
 permalink: /posts/2012/08/blog-post-1/
 tags:
