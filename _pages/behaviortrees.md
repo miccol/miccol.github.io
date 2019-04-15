@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Behavior Trees"
+markdown: redcarpet
 permalink: /behaviortrees/
 author_profile: true
 ---
