@@ -1,5 +1,5 @@
 ---
-title: 'Production error of the book Behavior Trees in Robotics and AI: An Introduction'
+title: 'Production error affecting my book Behavior Trees in Robotics and AI: An Introduction'
 date: 2019-04-15
 permalink: /posts/2019/04/bookerror/
 ---
