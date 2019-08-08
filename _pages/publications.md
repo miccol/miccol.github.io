@@ -13,7 +13,7 @@ author_profile: true
 ### Papers
 1. **Colledanchise, M.**, &amp; Natale, L. (2019). Analysis and Exploitation of Synchronized Parallel Executions in Behavior Trees. In <i>Intelligent Robots and Systems (IROS), 2019 IEEE/RSJ International Conference on</i>.
 
-1. **Colledanchise, M.**, Almeidam D. &amp; Ögren, P. (2019). Towards Blended Reactive Planning and Acting using Behavior Trees. In <i>Robotics and Automation (ICRA), 2019 IEEE International Conference on</i>.
+1. **Colledanchise, M.**, Almeida, D. &amp; Ögren, P. (2019). Towards Blended Reactive Planning and Acting using Behavior Trees. In <i>Robotics and Automation (ICRA), 2019 IEEE International Conference on</i>.
 
 1. **Colledanchise, M.**, &amp; Natale, L. (2018). Improving the Parallel Execution of Behavior Trees. In <i>Intelligent Robots and Systems (IROS), 2018 IEEE/RSJ International Conference on</i>.
 
