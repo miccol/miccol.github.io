@@ -11,6 +11,8 @@ source "https://rubygems.org"
 #gem "jekyll", "~> 3.5"
 #gem "minimal-mistakes-jekyll"
 
+gem 'tzinfo-data'
+
 #gem "github-pages", group: :jekyll_plugins
 
 # If you want to use Jekyll native, uncomment the line below.
@@ -32,4 +34,4 @@ group :jekyll_plugins do
 
 end
 
-bundle update
+# bundle update
