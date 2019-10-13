@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Media"
-    url: /media/       
+  - title: "Projects"
+    url: /projects/       
     
   - title: "Behavior Trees"
     url: /behaviortrees/
