@@ -11,7 +11,7 @@ author_profile: true
  
  
 ### Book Chapter
-Hang, K., **Colledanchise, M.**, Pauwels, K., Pieropan, A. and Kragic, D., (2020). Team CVAP’s Mobile Picking System at the Amazon Picking Challenge 2015. In <i> Advances on Robotic Item Picking (pp. 1-12)</i>. Springer, Cham.
+1. Hang, K., **Colledanchise, M.**, Pauwels, K., Pieropan, A. and Kragic, D., (2020). Team CVAP’s Mobile Picking System at the Amazon Picking Challenge 2015. In <i> Advances on Robotic Item Picking (pp. 1-12)</i>. Springer, Cham.
   
 ### Papers
 
