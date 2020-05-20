@@ -9,9 +9,15 @@ author_profile: true
 ### Book
 1. **Colledanchise, M.**, &amp; Ögren, P. (2018). <i>Behavior Trees in Robotics and AI: An Introduction</i>. Taylor &amp; Francis Group.
  
+ 
+### Book Chapter
+Hang, K., **Colledanchise, M.**, Pauwels, K., Pieropan, A. and Kragic, D., (2020). Team CVAP’s Mobile Picking System at the Amazon Picking Challenge 2015. In <i> Advances on Robotic Item Picking (pp. 1-12)</i>. Springer, Cham.
   
 ### Papers
-1. **Colledanchise, M.**, &amp; Natale, L. (2019). Analysis and Exploitation of Synchronized Parallel Executions in Behavior Trees. In <i>Intelligent Robots and Systems (IROS), 2019 IEEE/RSJ International Conference on (to appear)</i>.
+
+1. **Colledanchise, M.**, Malafronte, D., &amp; Natale, L. (2020). Act, Perceive, and Plan in the Belief Space for Robot Localization. In <i>Robotics and Automation (ICRA), 2020 IEEE International Conference on</i>.
+
+1. **Colledanchise, M.**, &amp; Natale, L. (2019). Analysis and Exploitation of Synchronized Parallel Executions in Behavior Trees. In <i>Intelligent Robots and Systems (IROS), 2019 IEEE/RSJ International Conference on</i>.
 
 1. Giunchiglia E., **Colledanchise, M.**, Natale L. &amp; Tacchella A., &amp; Natale, L. (2019). Conditional Behavior Trees: Definition, Executability, and Applications. In <i>Systems, Man, and Cybernetic (SMC), 2019 IEEE International Conference on (to appear)</i>.
 
