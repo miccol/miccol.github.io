@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<p>You can also find my articles on <u><a href="">my Google Scholar profile</a>.</u></p>
+<p>You can also find my articles on <u><a href="https://scholar.google.it/citations?user=Wo1eKDoAAAAJ&hl=it">my Google Scholar profile</a>.</u></p>
 
 ### Book
 1. **Colledanchise, M.**, &amp; Ögren, P. (2018). <i>Behavior Trees in Robotics and AI: An Introduction</i>. Taylor &amp; Francis Group.
