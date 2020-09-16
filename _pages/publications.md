@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+<p>You can also find my articles on <u><a href="">my Google Scholar profile</a>.</u></p>
 
 ### Book
 1. **Colledanchise, M.**, &amp; Ögren, P. (2018). <i>Behavior Trees in Robotics and AI: An Introduction</i>. Taylor &amp; Francis Group.
@@ -57,7 +58,7 @@ author_profile: true
 
 1. **Colledanchise, M.**, Dimarogonas, D. V., &amp; Ögren, P. (2013). Obstacle Avoidance in Formation Using Navigation-like Functions and Constraint Based Programming. In <i>Intelligent Robots and Systems (IROS), 2013 IEEE/RSJ  International Conference on</i>.
 
-<p>You can also find my articles on <u><a href="">my Google Scholar profile</a>.</u></p>
+
 
 
 
