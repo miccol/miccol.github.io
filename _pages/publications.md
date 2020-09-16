@@ -15,6 +15,10 @@ author_profile: true
   
 ### Papers
 
+1. Safronov E., **Colledanchise, M.**, &amp; Natale, L. (2020). Task Planning with Belief Behavior Trees. In <i>Intelligent Robots and Systems (IROS), 2020 IEEE/RSJ International Conference on</i>.
+
+1. Safronov E., **Colledanchise, M.**, &amp; Natale, L. (2020). Compact Belief State Representation for Task Planning. In <i>Automation Science and Engineering (CASE), 2020 IEEE International Conference on</i>.
+
 1. **Colledanchise, M.**, Malafronte, D., &amp; Natale, L. (2020). Act, Perceive, and Plan in the Belief Space for Robot Localization. In <i>Robotics and Automation (ICRA), 2020 IEEE International Conference on</i>.
 
 1. **Colledanchise, M.**, &amp; Natale, L. (2019). Analysis and Exploitation of Synchronized Parallel Executions in Behavior Trees. In <i>Intelligent Robots and Systems (IROS), 2019 IEEE/RSJ International Conference on</i>.
