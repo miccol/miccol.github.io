@@ -46,7 +46,7 @@ author_profile: true
 
 1. **Colledanchise, M.**, Marzinotto, A., Dimarogonas, D. V., &amp; Ögren, P. (2016). The Advantages of Using Behavior Trees in Multi-Robot Systems. In <i>International Symposium on Robotics (ISR)</i>.
 
-1. **Colledanchise, M.**, Dimarogonas, D. V., &amp; Ögren, P. (2014). Robot navigation under uncertainties using event based sampling. In <i>Decision and Control (CDC), 2014 IEEE 53rd Annual Conference on</i>. <a href="https://github.com/miccol/miccol.github.io/blob/master/files/CDC14.pdf" target="_blank">PDF.</a>
+1. **Colledanchise, M.**, Dimarogonas, D. V., &amp; Ögren, P. (2014). Robot navigation under uncertainties using event based sampling. In <i>Decision and Control (CDC), 2014 IEEE 53rd Annual Conference on</i>. <a href="https://github.com/miccol/miccol.github.io/files/CDC14.pdf" target="_blank">PDF.</a>
 
 1. Wang, Y., **Colledanchise, M.**, Marzinotto, A., &amp; Ögren, P. (2014). A Distributed Convergent Solution to the Ambulance Positioning Problem on a Streetmap Graph. In <i>World Congress</i>.
 
