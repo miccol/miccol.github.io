@@ -24,7 +24,7 @@ author_profile: true
 
 1. **Colledanchise, M.**, &amp; Natale, L. (2019). Analysis and Exploitation of Synchronized Parallel Executions in Behavior Trees. In <i>Intelligent Robots and Systems (IROS), 2019 IEEE/RSJ International Conference on</i>.
 
-1. Giunchiglia E., **Colledanchise, M.**, Natale L. &amp; Tacchella A., &amp; Natale, L. (2019). Conditional Behavior Trees: Definition, Executability, and Applications. In <i>Systems, Man, and Cybernetic (SMC), 2019 IEEE International Conference on (to appear)</i>.
+1. Giunchiglia E., **Colledanchise, M.**, Natale L. &amp; Tacchella A., &amp; Natale, L. (2019). Conditional Behavior Trees: Definition, Executability, and Applications. In <i>Systems, Man, and Cybernetic (SMC), 2019 IEEE International Conference on </i>.
 
 1. **Colledanchise, M.**, Almeida, D. &amp; Ögren, P. (2019). Towards Blended Reactive Planning and Acting using Behavior Trees. In <i>Robotics and Automation (ICRA), 2019 IEEE International Conference on</i>.
 
@@ -46,7 +46,7 @@ author_profile: true
 
 1. **Colledanchise, M.**, Marzinotto, A., Dimarogonas, D. V., &amp; Ögren, P. (2016). The Advantages of Using Behavior Trees in Multi-Robot Systems. In <i>International Symposium on Robotics (ISR)</i>.
 
-1. **Colledanchise, M.**, Dimarogonas, D. V., &amp; Ögren, P. (2014). Robot navigation under uncertainties using event based sampling. In <i>Decision and Control (CDC), 2014 IEEE 53rd Annual Conference on</i>. [PDF](https://github.com/miccol/miccol.github.io/blob/master/files/CDC14.pdf)
+1. **Colledanchise, M.**, Dimarogonas, D. V., &amp; Ögren, P. (2014). Robot navigation under uncertainties using event based sampling. In <i>Decision and Control (CDC), 2014 IEEE 53rd Annual Conference on</i>. <a href="https://github.com/miccol/miccol.github.io/blob/master/files/CDC14.pdf" target="_blank">PDF.</a>
 
 1. Wang, Y., **Colledanchise, M.**, Marzinotto, A., &amp; Ögren, P. (2014). A Distributed Convergent Solution to the Ambulance Positioning Problem on a Streetmap Graph. In <i>World Congress</i>.
 
