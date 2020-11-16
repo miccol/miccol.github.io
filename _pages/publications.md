@@ -42,7 +42,7 @@ author_profile: true
 
 1. **Colledanchise, M.**, Murray, R., &amp; Ögren, P. (2017). Synthesis of Correct-by-Construction Behavior Trees. In <i>Intelligent Robots and Systems (IROS), 2017 IEEE/RSJ International Conference on</i>.
 
-1. McGhan, C. L., Wang, Y.-S., **Colledanchise, M.**, Vaquero, T., Murray, R., Williams, B., &amp; Ögren, P. (2016). Towards Architecture-wide Analysis, Verification, and Validation for Total System Stability During Goal-Seeking Space Robotics Operations. In <i>AIAA SPACE</i> (p. 5607). <a href="https://miccol.github.io/files/SPACE2016.pdf" target="_blank">PDF.</a>
+1. McGhan, C. L., Wang, Y.-S., **Colledanchise, M.**, Vaquero, T., Murray, R., Williams, B., &amp; Ögren, P. (2016). Towards Architecture-wide Analysis, Verification, and Validation for Total System Stability During Goal-Seeking Space Robotics Operations. In <i>AIAA SPACE</i> (p. 5607).
 
 1. **Colledanchise, M.**, Marzinotto, A., Dimarogonas, D. V., &amp; Ögren, P. (2016). The Advantages of Using Behavior Trees in Multi-Robot Systems. In <i>International Symposium on Robotics (ISR)</i>.
 
