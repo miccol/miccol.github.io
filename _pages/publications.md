@@ -9,14 +9,14 @@ author_profile: true
 
 ### Book
 1. **Colledanchise, M.**, &amp; Ögren, P. (2018). <i>Behavior Trees in Robotics and AI: An Introduction</i>. Taylor &amp; Francis Group.
- 
- 
+
+
 ### Book Chapter
 1. Hang, K., **Colledanchise, M.**, Pauwels, K., Pieropan, A. and Kragic, D., (2020). Team CVAP’s Mobile Picking System at the Amazon Picking Challenge 2015. In <i> Advances on Robotic Item Picking (pp. 1-12)</i>. Springer, Cham.
-  
+
 ### Papers
 
-1. Safronov E., **Colledanchise, M.**, &amp; Natale, L. (2020). Task Planning with Belief Behavior Trees. In <i>Intelligent Robots and Systems (IROS), 2020 IEEE/RSJ International Conference on</i>.
+1. Safronov E., **Colledanchise, M.**, &amp; Natale, L. (2020). Task Planning with Belief Behavior Trees. In <i>Intelligent Robots and Systems (IROS), 2020 IEEE/RSJ International Conference on</i> **Best RoboCup Paper Award Finalist**.
 
 1. Safronov E., **Colledanchise, M.**, &amp; Natale, L. (2020). Compact Belief State Representation for Task Planning. In <i>Automation Science and Engineering (CASE), 2020 IEEE International Conference on</i>.
 
@@ -57,9 +57,3 @@ author_profile: true
 1. Marzinotto, A., **Colledanchise, M.**, Chrisitian, S., &amp; Ögren, P. (2014). Towards a Unified Behavior Trees Framework for Robot Control. In <i>Robotics and Automation (ICRA), 2014 IEEE International Conference on</i>.
 
 1. **Colledanchise, M.**, Dimarogonas, D. V., &amp; Ögren, P. (2013). Obstacle Avoidance in Formation Using Navigation-like Functions and Constraint Based Programming. In <i>Intelligent Robots and Systems (IROS), 2013 IEEE/RSJ  International Conference on</i>.
-
-
-
-
-
-
