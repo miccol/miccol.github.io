@@ -1,4 +1,4 @@
-﻿# Welcome to Jekyll!
+FBE﻿# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -13,7 +13,7 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Michele Colledanchise"
 description              : &description "I am a postdoctoral researcher at the Center for Robotics and Intelligent System within the IIT, working in Dr. Lorenzo Natale‘s group.
-Previously, I was a postdoctoral researcher at KTH, Sweden, working with Prof. Petter Ögren. 
+Previously, I was a postdoctoral researcher at KTH, Sweden, working with Prof. Petter Ögren.
 \n
 In April 2017, I received the Ph. D. in Computer Science, from the same institute, supervised by Prof. Petter Ögren, Prof. Dimos V. Dimarogonas, and Dr. Yiannis Karayiannidis. In the Spring semester 2016, I was a visiting scholar at Control and Dynamical Systems lab of Caltech, supervised by Prof. Richard Murray.
 \n
@@ -90,7 +90,7 @@ analytics:
 author:
   name             : "Michele Colledanchise"
   avatar           : "Michele-Colledanchise_12783-624x624.jpg"
-  bio              : "Postdoctoral Research at the Center for Robotics and Intelligent Systems, Istituto Italiano di Tecnologia (IIT). Genoa, Italy"
+  bio              : "Postdoctoral researcher at the Center for Robotics and Intelligent Systems, Istituto Italiano di Tecnologia (IIT). Genoa, Italy"
   location         : #"Genova, Italy"
   employer         : #"Istituto Italiano di Tecnologia"
   googlescholar    : "https://scholar.google.it/citations?user=Wo1eKDoAAAAJ"
